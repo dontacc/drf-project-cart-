@@ -1,0 +1,12 @@
+# model ha dar Cart(sabade kharid) :
+baraye sabade kharid be dota model niaz darim
+modele aval sabade kharide ke moshakhas mikone in sabad baraye che kasi hast ,aya is_paid True hast ya False
+yani on sabade kharid anjam shode pardakhtesh ya kheyr
+modele badi productie ke dar sabade kharid gharar dade shode ke shamele gheymat,tedad,khode mahsol,gheymate nahayie mahsol
+
+
+
+har order yek listi az order_detail dare chon order_detail vasle be product ha va dar asl har order ya sabade kharid
+shamele product hayi ast ,
+NOTE : dalile inke yek modele dg baraye detail(product) ha estefade kardim ine ke momkene gheymate mahsol roze bad
+ziad she vali nabayd gheymate sabade kharid ziad she , sabade kharid bayad gheymatesh yeki bemone
